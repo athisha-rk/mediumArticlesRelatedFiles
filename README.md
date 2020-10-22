@@ -7,4 +7,4 @@
 * How to Plot Data on a World Map in Python? -> https://medium.com/analytics-vidhya/how-to-plot-data-on-a-world-map-in-python-25cf9733c3dd
 
 
-* 3 Easy Ways to Handle Categorical Data -Python -> Coming Soon
+* 3 Easy Ways to Handle Categorical Data -Python -> https://medium.com/analytics-vidhya/3-easy-ways-to-handle-categorical-data-python-b43fbd81e227
