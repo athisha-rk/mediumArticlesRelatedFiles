@@ -8,3 +8,5 @@
 
 
 * 3 Easy Ways to Handle Categorical Data -Python -> https://medium.com/analytics-vidhya/3-easy-ways-to-handle-categorical-data-python-b43fbd81e227
+
+* The Ultimate Guide to Lists in Python for Beginners -> Coming Soon
