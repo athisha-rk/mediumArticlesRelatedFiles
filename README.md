@@ -10,3 +10,8 @@
 * 3 Easy Ways to Handle Categorical Data -Python -> https://medium.com/analytics-vidhya/3-easy-ways-to-handle-categorical-data-python-b43fbd81e227
 
 * The Ultimate Guide to Lists in Python for Beginners -> https://medium.com/analytics-vidhya/the-ultimate-guide-to-lists-in-python-for-beginners-e6c46c21d118
+
+* Random Numbers -> Coming Soon
+
+  * Random Number Generator Using JavaScript - https://codepen.io/rk_athisha/pen/LYbQbOP
+  * Seed Example OnlineGDB - https://www.onlinegdb.com/B1ciWOLfu (Fork This enables editing)
