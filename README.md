@@ -11,7 +11,7 @@
 
 * The Ultimate Guide to Lists in Python for Beginners -> https://medium.com/analytics-vidhya/the-ultimate-guide-to-lists-in-python-for-beginners-e6c46c21d118
 
-* Random Numbers -> Coming Soon
+* Random Numbers -> https://medium.com/analytics-vidhya/random-numbers-in-python-and-javascript-89dc6e6a3de4
 
   * Random Number Generator Using JavaScript - https://codepen.io/rk_athisha/pen/LYbQbOP
   * Seed Example OnlineGDB - https://www.onlinegdb.com/B1ciWOLfu (Fork This enables editing)
