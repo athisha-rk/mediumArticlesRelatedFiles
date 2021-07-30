@@ -15,3 +15,5 @@
 
   * Random Number Generator Using JavaScript - https://codepen.io/rk_athisha/pen/LYbQbOP
   * Seed Example OnlineGDB - https://www.onlinegdb.com/B1ciWOLfu (Fork This enables editing)
+
+* Simple Sentiment Analysis - Python -> COMING SOON
